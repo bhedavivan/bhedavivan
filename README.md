@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
-- 🤝 I’m looking for help with **open source contributions and finding the right projects to get involved in**
+-  I’m looking for help with **open source contributions and finding the right projects to get involved in**
 
 - 📫 How to reach me **bheda.vivan16@gmail.com**
 
