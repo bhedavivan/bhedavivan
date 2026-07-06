@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vivan D Bheda</h1>
 <h3 align="center">Computer Science @ UC Irvine | Tech startup enthusiast | Bridging Tech & Social Change</h3>
 
-- 🔭 I’m currently working on **personal projects to sharpen my software engineering and AI skills**
+- I’m currently working on **personal projects to sharpen my software engineering and AI skills**
 
-- 🌱 I’m currently learning **machine learning, cloud infrastructure, and full-stack web development**
+- I’m currently learning **machine learning, cloud infrastructure, and full-stack web development**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- I’m looking to collaborate on **AI/ML projects**
 
-- 🤝 I’m looking for help with **open source contributions and finding the right projects to get involved in**
+- I’m looking for help with **open source contributions and finding the right projects to get involved in**
 
-- 📫 How to reach me **bheda.vivan16@gmail.com**
+- How to reach me **bheda.vivan16@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/vivanbheda/](www.linkedin.com/in/vivanbheda/)
+- Know about my experiences [www.linkedin.com/in/vivanbheda/](www.linkedin.com/in/vivanbheda/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
