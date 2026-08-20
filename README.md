@@ -13,7 +13,7 @@
 
 - Know about my experiences [www.linkedin.com/in/vivanbheda/](www.linkedin.com/in/vivanbheda/)
 
-- See my profile [vivanbheda.com/](https://vivanbheda.com/)
+- See my profile [vivanbheda.com](https://vivanbheda.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
